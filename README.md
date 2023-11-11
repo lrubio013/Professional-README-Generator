@@ -15,6 +15,10 @@ Using Node.js and the inquirer package a developer is able to create a questiona
 terminal and create a new file, in this situation a README, with the answers from the questionaire.
 To run the application on the command line you must use "node "[filename]"
 
+## Demonstration
+<img src=assets\media\README-Generator-preview.gif>
+
 ## Links
-Link to demonstration of application- 
-Github- 
+Link to demonstration of application- https://drive.google.com/file/d/1Qbrl41hNeThbXueBDp8NvIHIQDKQmN-r/view
+
+Github- https://github.com/lrubio013/Professional-README-Generator

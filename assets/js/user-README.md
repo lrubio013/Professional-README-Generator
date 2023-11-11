@@ -1,4 +1,4 @@
-# kytk 
+# README Gen 
 
  ## Table of Contents
 - [Installation](#installation)
@@ -9,18 +9,18 @@
 - [Questions](#Questions)
 
 ## Description
-    aw
+    create a readme
 ## Installation
-    ktyk
+    node.js
 ## Usage
-    etg
+    test apps without browser
 ## License
     This project is licensed under MIT license
 ## Contribution
-    ktyu
+    Reach out
 ## Tests
-    weh
+    Node 
 ## Questions
     If you have any additional questions you can reach me at
-    Github: efe
-    Email: hjtrj
+    Github: lrubio013
+    Email: luisrubio7771@outlook.com
