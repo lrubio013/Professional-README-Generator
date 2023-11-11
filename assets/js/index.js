@@ -69,8 +69,8 @@ function writeToFile(fileName, data) {
     ${data.description}\n`
     userInfo += `## Installation
     ${data.installation}\n`
-    userInfo += `\n## Usage
-    ${data.usage}`
+    userInfo += `## Usage
+    ${data.usage}\n`
     userInfo += `## License
     This project is licensed under ${data.license} license\n`
     userInfo += `## Contribution
