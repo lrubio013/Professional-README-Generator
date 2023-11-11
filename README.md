@@ -10,7 +10,7 @@
 - [Tests](#Tests)
 - [Questions](#Questions)
 
-## Installatiob
+## Installation
 
 ## Usage
 
@@ -21,3 +21,4 @@
 ## Tests
 
 ## Questions
+ 

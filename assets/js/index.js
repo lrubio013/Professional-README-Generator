@@ -21,7 +21,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "Description",
+        name: "description",
         message: "what is the description of you project?",
     },
     {
@@ -56,6 +56,35 @@ const questions = [
 function writeToFile(fileName, data) {
     var userInfo= ""
     userInfo += `# ${data.title} \n` 
+
+    userInfo += `\n ## Table of Contents
+- [Installation](#installation)
+- [Usage](#Usage)
+- [License](#License)
+- [Contributing](#Contributing)
+- [Tests](#Tests)
+- [Questions](#Questions)\n`
+
+    userInfo += `\n## Description
+    ${data.description}\n`
+    userInfo += `## Installation
+    ${data.installation}\n`
+    userInfo += `\n## Usage
+    ${data.usage}`
+    userInfo += `## License
+    This project is licensed under ${data.license} license\n`
+    userInfo += `## Contribution
+    ${data.contribution}\n`
+    userInfo += `## Tests
+    ${data.tests}\n`
+    userInfo += `## Questions
+    If you have any additional questions you can reach me at
+    Github: ${data.github}
+    Email: ${data.email}`
+
+
+
+
 
 
 
